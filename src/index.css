@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	background: rgb(2,60,36);
+  background: linear-gradient(90deg, rgba(2,60,36,1) 0%, rgba(118,144,75,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.form-container {
+	text-align: center;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.input-text {
+	width: 50%;
+	margin: 0 auto;
+	padding-left: 12px;
+	height:38px;
+	border: none;
+	outline: none;
+	font-size: large;
+}
+
+.input-submit {
+	height: 40px;
+	cursor: pointer;
+}
