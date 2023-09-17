@@ -35,6 +35,12 @@ Install
 Usage
    - Open the index.html file with your browser to view the webpage
 
+### JSONPlaceholder interaction:
+- Kindly click on inspect once you get the project running on your browser.
+N.B: you can do that by right clicking on the browser interface and click on inspect.
+- Then navigate to Application on the inspection nav tab.
+- Then you will click on local-storage. You will be able to see th JSON placeholder and will be able to interact with the project.
+
 ## Authors
 
 👤 **Afolabi Akorede**
